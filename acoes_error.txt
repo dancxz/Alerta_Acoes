@@ -1,0 +1,1 @@
+{'VIVT4.SA': 'No data found, symbol may be delisted'}
